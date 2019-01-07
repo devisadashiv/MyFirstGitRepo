@@ -1,0 +1,7 @@
+com\Erp\qa\pages\HomePage.class
+com\Erp\qa\pages\DealsPage.class
+com\Erp\qa\pages\ContactsPage.class
+com\Erp\qa\pages\SignupPage.class
+com\Erp\qa\Utility\TestUtil.class
+com\Erp\qa\BaseClass\TestBase.class
+com\Erp\qa\pages\LoginPage.class

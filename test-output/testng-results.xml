@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11205" started-at="2018-12-28T00:29:58Z" finished-at="2018-12-28T00:30:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11205" started-at="2018-12-28T00:29:58Z" finished-at="2018-12-28T00:30:09Z">
+      <class name="com.Erp.qa.TestCases.Alertpopup">
+        <test-method status="PASS" signature="alertverify()[pri:0, instance:com.Erp.qa.TestCases.Alertpopup@55f3ddb1]" name="alertverify" duration-ms="11161" started-at="2018-12-27T18:29:58Z" finished-at="2018-12-27T18:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertverify -->
+      </class> <!-- com.Erp.qa.TestCases.Alertpopup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
